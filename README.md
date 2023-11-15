@@ -5,7 +5,7 @@
 use Docker To use this Plugin setup. (Not Compulasory)
 
 ```
-   $ git clone https://github.com/vanpariyar/wp-post-views.git
+   $ git clone https://github.com/GregorySmith412/WP-post-views.git
    $ cd wp-post-views
    $ docker-compose up -d
 ```
@@ -15,7 +15,7 @@ Live URL: https://wordpress.org/plugins/wp-post-views/
 
 This is the simple plugin that counts the views of the your wordpress website and store the views in the database
 
-For this repository i would like to give full credits to [AnkitaTanti](https://github.com/AnkitaTanti).
+For this repository i would like to give full credits to [GregorySmith412](https://github.com/GregorySmith412).
 
 Contribution is highly appriciated.
 
